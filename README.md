@@ -8,7 +8,4 @@
 RensKooijman/RensKooijman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://stackoverflow.com/users/10249156/wasitshafi" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=10249156" />
-</a>
+<a href="https://stackoverflow.com/users/20538588/oelimoe"><img src="https://stackoverflow.com/users/flair/20538588.png?theme=dark" width="208" height="58" alt="profile for oelimoe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for oelimoe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
