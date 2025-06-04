@@ -55,8 +55,8 @@
 
 ### 🌟 Featured Projects
 
-- 📝 **[TaalTool](#)** — Language learning app with smart features *(my favorite project!)*
-- 🗂️ **[Portfolio](#)** — Showcasing my work, skills & journey
+- 📝 **[TaalTool](https://github.com/RensKooijman/taaltool)** — Language learning app with smart features *(my favorite project!)*
+- 🗂️ **[Portfolio](https://github.com/RensKooijman/eigen-site)** — Showcasing my work, skills & journey
 
 ---
 
