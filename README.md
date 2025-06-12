@@ -86,5 +86,10 @@
   <img alt="Dark Badge (large)" width="600" height="60" class="hidden dark:block" src="https://www.codewars.com/users/rens%20kooijman/badges/large">
 </p>
 <p align="center">
+  <a href="https://github.com/RensKooijman/RensKooijman">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RensKooijman&theme=nord" />
+  </a>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RensKooijman&show_icons=true&theme=default&hide_border=true" alt="RensKooijman's GitHub stats" />
 </p>
