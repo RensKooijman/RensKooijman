@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
   <img src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpinejs"/>
   <img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="ChartJS"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&style=for-the-badge&logoColor=white" alt="c#"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white" alt="JAVA"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
