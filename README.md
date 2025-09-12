@@ -80,6 +80,7 @@
 - 🏅 **Motto:**  
   > Nothing is impossible, they are only hard to do.  
   > There is no must, there is only can, and with effort everything can be done.
+  > Practice makes perfect.
 
 ---
 
