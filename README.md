@@ -107,6 +107,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RensKooijman&theme=nord" />
   </a>
 </p>
-<p align="center">
- <div class="badge-base LI-profile-badge" data-locale="nl_NL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rens-kooijman-1130a9189" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/rens-kooijman-1130a9189?trk=profile-badge">Rens Kooijman</a></div>
-</p>
+<div class="badge-base LI-profile-badge" data-locale="nl_NL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rens-kooijman-1130a9189" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/rens-kooijman-1130a9189?trk=profile-badge">Rens Kooijman</a></div>
+              
