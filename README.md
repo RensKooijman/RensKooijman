@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"/>
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="Adobe"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Mqtt-lightgrey?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 </p>
 
 ---
