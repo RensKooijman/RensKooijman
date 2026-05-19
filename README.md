@@ -100,20 +100,24 @@
 
 ### 🌐 Connect with Me
 
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20538588/oelimoe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rens.kooijman/?next=https%3A%2F%2Fwww.instagram.com%2Fexplore%2Fsearch%2F%3F__coig_login%3D1)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20538588)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rens.kooijman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://nl-nl.facebook.com/skoper.skoper.9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rens-kooijman-1130a9189/?originalSubdomain=nl)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/rens%20kooijman)
 
 ---
 <p align="center">
-  <a href="https://stackoverflow.com/users/20538588/oelimoe"><img src="https://stackoverflow.com/users/flair/20538588.png?theme=dark" width="234" height="65" alt="profile for oelimoe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for oelimoe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-  <a href="https://stackexchange.com/users/26972848"><img src="https://stackexchange.com/users/flair/26972848.png?theme=dark" width="234" height="65" alt="profile for oelimoe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for oelimoe on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  <a href="https://stackoverflow.com/users/20538588/oelimoe">
+    <img src="https://stackoverflow.com/users/flair/20538588.png?theme=dark" width="234" height="65" alt="profile for oelimoe at Stack Overflow" title="profile for oelimoe at Stack Overflow">
+  </a>
+  <a href="https://stackexchange.com/users/26972848">
+    <img src="https://stackexchange.com/users/flair/26972848.png?theme=dark" width="234" height="65" alt="profile for oelimoe on Stack Exchange" title="profile for oelimoe on Stack Exchange">
+  </a>
+  <br />
+  <a href="https://www.codewars.com/users/rens%20kooijman">
+    <img alt="Dark Badge codewars" width="600" height="60" class="hidden dark:block" src="https://www.codewars.com/users/rens%20kooijman/badges/large">
+  </a>
 </p>
-<p align="center">
-  <img alt="Dark Badge (large)" width="600" height="60" class="hidden dark:block" src="https://www.codewars.com/users/rens%20kooijman/badges/large">
-</p>
-<div class="badge-base LI-profile-badge" data-locale="nl_NL" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rens-kooijman-1130a9189" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/rens-kooijman-1130a9189?trk=profile-badge">Rens Kooijman</a></div>
               
               
