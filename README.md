@@ -86,6 +86,7 @@
 
 - 🛠️ **Debugging is my superpower:** I love solving tricky bugs and making code run smoothly.
 - ⛹️‍♂️ **Basketball & Gaming:** Off-screen, you’ll find me on the basketball court or playing games.
+<a href="https://psnprofiles.com/oelimoe"><img src="https://card.psnprofiles.com/1/oelimoe.png" border="0"></a>
 - 🏅 **Motto:**  
   > Nothing is impossible, they are only hard to do.  
   > There is no must, there is only can, and with effort everything can be done.
