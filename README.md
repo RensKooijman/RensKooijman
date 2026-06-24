@@ -54,6 +54,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" alt="Ollama"/>
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/>
   <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=Roboflow&logoColor=white" alt="Roboflow"/>
